@@ -1,0 +1,11 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Time,Accidents,Congestion_Level
+2026-01-01 10:00,City Market,125,38,Clear,60,0,Medium
+2026-01-01 10:05,City Market,185,24,Rainy,85,2,High
+2026-01-01 10:10,City Market,90,52,Cloudy,45,0,Low
+2026-01-01 10:15,City Market,155,30,Clear,70,1,Medium
+2026-01-01 10:20,City Market,175,26,Rainy,90,1,High
+2026-01-01 10:25,City Market,105,44,Cloudy,50,0,Medium
+2026-01-01 10:30,City Market,80,58,Clear,35,0,Low
+2026-01-01 10:35,City Market,165,29,Rainy,80,2,High
+2026-01-01 10:40,City Market,145,36,Clear,60,0,Medium
+2026-01-01 10:45,City Market,115,46,Cloudy,55,0,Low

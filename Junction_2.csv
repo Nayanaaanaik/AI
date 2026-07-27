@@ -1,0 +1,11 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Time,Accidents,Congestion_Level
+2026-01-01 09:00,Airport Road,130,40,Clear,55,0,Medium
+2026-01-01 09:05,Airport Road,170,28,Rainy,80,1,High
+2026-01-01 09:10,Airport Road,95,50,Cloudy,45,0,Low
+2026-01-01 09:15,Airport Road,150,32,Clear,65,0,Medium
+2026-01-01 09:20,Airport Road,180,25,Rainy,90,2,High
+2026-01-01 09:25,Airport Road,110,42,Cloudy,50,0,Medium
+2026-01-01 09:30,Airport Road,85,55,Clear,40,0,Low
+2026-01-01 09:35,Airport Road,160,30,Rainy,75,1,High
+2026-01-01 09:40,Airport Road,140,35,Clear,60,0,Medium
+2026-01-01 09:45,Airport Road,100,48,Cloudy,50,0,Low
