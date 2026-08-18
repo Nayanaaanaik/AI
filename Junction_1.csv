@@ -1,6 +1,0 @@
-Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Time,Accidents,Congestion_Level
-2026-01-01 08:00,MG Road,120,35,Clear,60,0,Medium
-2026-01-01 08:05,MG Road,140,30,Clear,70,0,High
-2026-01-01 08:10,MG Road,90,45,Cloudy,50,0,Low
-2026-01-01 08:15,MG Road,160,25,Rainy,80,1,High
-2026-01-01 08:20,MG Road,110,40,Clear,60,0,Medium
